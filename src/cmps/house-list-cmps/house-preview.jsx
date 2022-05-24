@@ -1,9 +1,11 @@
+export function HousePreview() {
 
-export function HousePreview(){
 
   return(
-    <div>
-      marshmelo
-    </div>
-  )
+<div className="house-preview">
+  
+  house
+</div>
+
+  ) 
 }
