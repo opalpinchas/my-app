@@ -1,5 +1,33 @@
-.house-preview{
-  background-color: black;
-  height: 385px;
-  width: 300px;
+.house-preview {
+  /* height: 24.0625rem; */
+  /* width: 18.75rem; */
+  border-radius: 12px;
+color: #222222;
+font-size: 1rem;
+font-family: Circular-light;
+
+}
+
+.house-preview-img {
+  object-fit: cover;
+  height: 17.8125rem;
+  width: 100%;
+  border-radius: inherit;
+}
+h1{ 
+font-family: Circular-book;
+font-weight:lighter;
+}
+p{
+  color: #9F7171;
+font-weight: lighter;
+}
+
+h2{
+  font-weight: bold;
+  margin-block-start: .4rem;
+}
+span{
+  font-weight: lighter;
+
 }

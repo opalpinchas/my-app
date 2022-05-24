@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Circular-light;
+  src: url(../styles/fonts/CircularStd-Light.otf);
+}
+
+@font-face {
+  font-family: Circular-book;
+  src: url(../styles/fonts/CircularStd-Book.otf);
+}

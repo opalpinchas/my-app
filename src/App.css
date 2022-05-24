@@ -1,2 +1,5 @@
 @import '../src/styles/reset.css';
 @import '../src/styles/house-list-styles/house-preview.css';
+@import '../src/styles/house-list-styles/house-list.css';
+@import '../src/styles/general.css';
+@import '../src/styles/fonts.css';
