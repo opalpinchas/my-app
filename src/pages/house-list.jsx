@@ -1,3 +1,10 @@
+import { HousePreview } from "../cmps/house-list-cmps/house-preview";
+
 export function HouseList() {
-  return <div>dsa</div>;
+  return (
+    <div>
+      <HousePreview></HousePreview>
+      dsa
+    </div>
+  );
 }
